@@ -3,8 +3,6 @@
 
 <h2> OnionCOPY </h2>
 
-
-
 <h6> Author : RKT </h6>
 
 A simple python program which copy any onion(DEEPNET or DARKNET)site code.
