@@ -5,7 +5,7 @@
 
 
 
-<h6> Author : RKT </6>
+<h6> Author : RKT </h6>
 
 A simple python program which copy any onion(DEEPNET or DARKNET)site code.
 
